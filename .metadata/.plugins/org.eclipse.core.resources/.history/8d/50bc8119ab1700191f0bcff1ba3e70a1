@@ -1,0 +1,5 @@
+package testLog4j;
+
+public class Bar {
+
+}
